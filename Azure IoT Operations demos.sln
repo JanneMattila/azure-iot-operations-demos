@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2038F8EB-61F2-4920-B42C-932A0C41AC37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTTApp", "src\MQTTApp\MQTTApp.csproj", "{F6BCAB0B-029B-4449-A246-407B8E362020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6BCAB0B-029B-4449-A246-407B8E362020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BCAB0B-029B-4449-A246-407B8E362020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BCAB0B-029B-4449-A246-407B8E362020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BCAB0B-029B-4449-A246-407B8E362020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F6BCAB0B-029B-4449-A246-407B8E362020} = {2038F8EB-61F2-4920-B42C-932A0C41AC37}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAFBC0D0-6976-4FA4-A796-AFC0575ECCBC}
+	EndGlobalSection
+EndGlobal
